@@ -174,6 +174,8 @@ It highlights how SQL can reveal important business insights from raw transactio
 
 ---
 
+## You can also view my LinkedIn post about this project here:  [LinkedIn Post](https://www.linkedin.com/posts/shefali-deshpande_sql-dataanalytics-dataindianclub-activity-7397279877177188353-6zeY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoARdYBKv5OtRUiWKqHyNsqmH2IRlY5WmY)
+
 ##  Challenge Credits
 **21 Days SQL Challenge  
 Indian Data Club × DPDZero**
