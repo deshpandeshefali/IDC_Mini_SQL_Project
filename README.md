@@ -178,5 +178,5 @@ It highlights how SQL can reveal important business insights from raw transactio
 **21 Days SQL Challenge  
 Indian Data Club × DPDZero**
 
-#SQL #DataAnalytics #IDC #DPDZero #MiniProject #ShefaliLearns
+#SQL #DataAnalytics #IDC #DPDZero #MiniProject #SQLWithIDC
 
